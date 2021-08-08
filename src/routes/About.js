@@ -6,8 +6,8 @@ function About(props){
         <span>
             "Never was anything great achieved without danger."
         </span>
-        <span>Niccolo Machiavelli</span>
-        <span>- A simple movie app for nomads -</span>
+        <span>&emsp; - Niccolo Machiavelli</span>
+        <span>* A simple movie app for nomads *</span>
     </div>;
 }
 
